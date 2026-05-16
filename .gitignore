@@ -1,2 +1,10 @@
+# Ignore everything by default
 *
+
+# But allow...
 !.gitignore
+!*.md
+!README.md
+
+# Allow directory structure
+!*/
