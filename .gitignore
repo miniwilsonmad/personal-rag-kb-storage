@@ -1,8 +1,9 @@
 # Ignore everything by default
 *
 
-# But allow...
+# But allow these...
 !.gitignore
+!.gitkeep
 !*.md
 !README.md
 
